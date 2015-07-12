@@ -1,0 +1,12 @@
+package io.github.jwolff52.basics;
+
+import javax.swing.JPanel;
+
+public class Board extends JPanel {
+
+	/**
+	 * 
+	 */
+	private static final long serialVersionUID = 5301075978715073566L;
+
+}

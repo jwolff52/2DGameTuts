@@ -1,0 +1,7 @@
+package io.github.jwolff52.basics;
+
+import javax.swing.JFrame;
+
+public class Application extends JFrame {
+
+}

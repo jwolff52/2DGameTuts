@@ -1,0 +1,7 @@
+package io.github.jwolff52.basics;
+
+import javax.swing.JPanel;
+
+public class Board extends JPanel {
+
+}

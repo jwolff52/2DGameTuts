@@ -1,0 +1,17 @@
+package io.github.jwolff52.basics;
+
+import javax.swing.JFrame;
+
+public class Application extends JFrame {
+
+	/**
+	 * 
+	 */
+	private static final long serialVersionUID = -91435994025641528L;
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
